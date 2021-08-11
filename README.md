@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnandAiswarya
-- 👀 I’m interested in Machine Learning, Image processing and competitive coding
-- 🌱 I’m currently learning Flutter (app dev)
-- 💞️ I’m looking to collaborate on any fascinating projects
+- 👀 I’m interested in Machine Learning, Computer vision and Competitive programming
+- 🌱 I’m currently learning Flutter, Unity and Webdev
+- 💞️ I’m looking to collaborate/work on novel and societal-impact projects
 
 <!---
 AnandAiswarya/AnandAiswarya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
